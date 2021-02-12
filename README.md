@@ -8,13 +8,13 @@ I live off-grid in a cabin in the woods in the Santa Cruz Mountains of Californi
 
 I'm currently working as a [freelance web designer and developer](sycamore.design) while I continue to expand my skill set.
 
- ⚡ Learning React, Wordpress, PHP, Node
+  ⚡ Learning React, Wordpress, PHP, Node
+ 
+ ✨ Find me on [DEV Community](dev.to/tanoaksam), [LinkedIn](linkedin.com/in/samuelsycamore), [Twitter](twitter.com/tanoaksam)
 
-✨ Find me on [DEV Community](dev.to/tanoaksam), [LinkedIn](linkedin.com/in/samuelsycamore), [Twitter](twitter.com/tanoaksam)
+ 🔧 Dig my personal portfolio at [samuelsycamore.com](samuelsycamore.com) (not much to see there currently)
 
-🔧 Dig my personal portfolio at [samuelsycamore.com](samuelsycamore.com) (not much to see there currently)
-
-🌱 Ask me about how to identify common edible wild plants
+ 🌱 Ask me about how to identify common edible wild plants
 
 
 # Repository Highlights
