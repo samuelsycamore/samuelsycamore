@@ -6,15 +6,15 @@
 
 I live off-grid in a cabin in the woods in the Santa Cruz Mountains of California - almost all the code you find here was made possible by solar power.
 
-I'm currently working as a [freelance web designer and developer](sycamore.design) while I continue to expand my skill set.
+I'm currently working as a [freelance web designer and developer](http://sycamore.design) while I continue to expand my skill set.
 
   ⚡ Learning React, Wordpress, PHP, Node
  
- ✨ Find me on [DEV.to](dev.to/tanoaksam), [LinkedIn](linkedin.com/in/samuelsycamore), [Twitter](twitter.com/tanoaksam)
+ ✨ Find me on [DEV.to](http://dev.to/tanoaksam), [LinkedIn](http://linkedin.com/in/samuelsycamore), [Twitter](http://twitter.com/tanoaksam)
 
- 🔧 Dig my developer portfolio at [samuelsycamore.com](samuelsycamore.com) (not much to see there currently)
+ 🔧 Dig my developer portfolio at [samuelsycamore.com](http://samuelsycamore.com) (not much to see there currently)
  
-  ✍ You can [download my résumé here](https://www.sycamore.design/resume/sycamore-resume-202102.pdf)
+  ✍ You can [download my résumé here](http://https://www.sycamore.design/resume/sycamore-resume-202102.pdf)
 
  🌱 Ask me about how to identify common edible wild plants
 
@@ -23,7 +23,7 @@ I'm currently working as a [freelance web designer and developer](sycamore.desig
 
 ## [Sycamore Design](https://github.com/samuelsycamore/sycamore-design)
 
-- My professional freelancing portfolio, which lives at [sycamore.design](sycamore.design)
+- My professional freelancing portfolio, which lives at [sycamore.design](http://sycamore.design)
 - Built with Tailwind 
 - Currently working on adding GSAP animations and [converting to a custom Wordpress blog](https://github.com/samuelsycamore/portfolio-wordpress-rebuild)
 
