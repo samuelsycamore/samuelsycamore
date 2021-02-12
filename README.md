@@ -1,16 +1,13 @@
-### Hi there 👋
+##A Solar-Powered Profile
 
-<!--
-**samuelsycamore/samuelsycamore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Cheers! I'm Sam Sycamore, a full-stack web developer who's deeply in love with front-end design and content creation. 
 
-Here are some ideas to get you started:
+I live off-grid in an austere cabin in the woods buried deep in the Santa Cruz Mountains of California. Almost all the code you find in my repositories was made possible by solar power.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working as a freelance web designer and developer while I continue to expand my skill set.
+
+ ⚡ Learning React, Wordpress, PHP, Node
+
+✨ Find me on DEV Community, LinkedIn, Twitter
+
+🌱 Ask me about how to identify common edible wild plants
