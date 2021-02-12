@@ -1,21 +1,32 @@
+<img src="https://raw.githubusercontent.com/samuelsycamore/samuelsycamore/main/1500x500.jpg">
+
 # A Solar-Powered Profile
 
-### Cheers! I'm Sam Sycamore, a full-stack web developer who's fallen deeply in love with Tailwind and React.
+### Cheers! I'm Sam Sycamore, a full-stack web developer who's fallen in love with Tailwind and React.
 
-I live off-grid in an austere cabin in the woods buried deep in the Santa Cruz Mountains of California. 
+I live off-grid in a cabin in the woods in the Santa Cruz Mountains of California - almost all the code you find here was made possible by solar power.
 
-Almost all the code you find here was made possible by solar power.
+I'm currently working as a [freelance web designer and developer](sycamore.design) while I continue to expand my skill set.
 
-I'm currently working as a freelance web designer and developer while I continue to expand my skill set.
+- ⚡ Learning React, Wordpress, PHP, Node
 
- ⚡ Learning React, Wordpress, PHP, Node
+-✨ Find me on [DEV Community](dev.to/tanoaksam), [LinkedIn](linkedin.com/in/samuelsycamore), [Twitter](twitter.com/tanoaksam)
 
-✨ Find me on DEV Community, LinkedIn, Twitter
+-🔧 Dig my personal portfolio at [samuelsycamore.com] (not much to see there currently)
 
-🌱 Ask me about how to identify common edible wild plants
+-🌱 Ask me about how to identify common edible wild plants
+
 
 # Repository Highlights
 
+## Sycamore Design
+
+-My professional freelancing portfolio, which lives at [sycamore.design] 
+-Built with Tailwind 
+-Currently working on adding GSAP animations and converting to a custom Wordpress blog
+
 ## Joshu's Zen Koans
 
-## California Killer Contract
+-Minimalist SPA gathering Zen Buddhist parables featuring the monk Joshu
+-Built with React & Tailwind
+-Assembled to test my knowledge of state, props, and the React dev environment
