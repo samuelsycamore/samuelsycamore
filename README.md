@@ -12,7 +12,7 @@ I'm currently working as a [freelance web designer and developer](sycamore.desig
 
 ✨ Find me on [DEV Community](dev.to/tanoaksam), [LinkedIn](linkedin.com/in/samuelsycamore), [Twitter](twitter.com/tanoaksam)
 
-🔧 Dig my personal portfolio at [samuelsycamore.com] (not much to see there currently)
+🔧 Dig my personal portfolio at [samuelsycamore.com](samuelsycamore.com) (not much to see there currently)
 
 🌱 Ask me about how to identify common edible wild plants
 
@@ -21,7 +21,7 @@ I'm currently working as a [freelance web designer and developer](sycamore.desig
 
 ## [Sycamore Design](https://github.com/samuelsycamore/sycamore-design)
 
-- My professional freelancing portfolio, which lives at [sycamore.design] 
+- My professional freelancing portfolio, which lives at [sycamore.design](sycamore.design)
 - Built with Tailwind 
 - Currently working on adding GSAP animations and [converting to a custom Wordpress blog](https://github.com/samuelsycamore/portfolio-wordpress-rebuild)
 
