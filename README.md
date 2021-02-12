@@ -4,7 +4,7 @@
 
 ### Cheers! I'm Sam Sycamore, a full-stack web developer who's fallen in love with Tailwind and React.
 
-I live off-grid in a cabin in the woods in the Santa Cruz Mountains of California - almost all the code you find here was made possible by solar power.
+I live off-grid in the Santa Cruz Mountains of California - almost all the code you find here was made possible by solar power.
 
 I'm currently working as a [freelance web designer and developer](https://sycamore.design) while I continue to expand my skill set.
 
