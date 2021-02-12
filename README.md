@@ -10,9 +10,11 @@ I'm currently working as a [freelance web designer and developer](sycamore.desig
 
   ⚡ Learning React, Wordpress, PHP, Node
  
- ✨ Find me on [DEV Community](dev.to/tanoaksam), [LinkedIn](linkedin.com/in/samuelsycamore), [Twitter](twitter.com/tanoaksam)
+ ✨ Find me on [DEV.to](dev.to/tanoaksam), [LinkedIn](linkedin.com/in/samuelsycamore), [Twitter](twitter.com/tanoaksam)
 
- 🔧 Dig my personal portfolio at [samuelsycamore.com](samuelsycamore.com) (not much to see there currently)
+ 🔧 Dig my developer portfolio at [samuelsycamore.com](samuelsycamore.com) (not much to see there currently)
+ 
+  ✍ You can [download my résumé here](https://www.sycamore.design/resume/sycamore-resume-202102.pdf)
 
  🌱 Ask me about how to identify common edible wild plants
 
