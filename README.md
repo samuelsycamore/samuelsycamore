@@ -8,11 +8,11 @@ I live off-grid in the Santa Cruz Mountains of California - almost all the code 
 
 I'm currently working as a [freelance web designer and developer](https://sycamore.design) while I continue to expand my skill set.
 
-  ⚡ Learning React, Wordpress, PHP, Node
+  ⚡ Learning Next.js, React, Node, Express
+  
+ 🔧 Dig my developer portfolio & tech blog at [samuelsycamore.com](https://samuelsycamore.com)
  
  ✨ Find me on [DEV.to](https://dev.to/tanoaksam), [LinkedIn](https://linkedin.com/in/samuelsycamore), [Twitter](https://twitter.com/tanoaksam)
-
- 🔧 Dig my developer portfolio at [samuelsycamore.com](https://samuelsycamore.com) (not much to see there currently)
  
   ✍ You can [download my résumé here](https://www.sycamore.design/resume/sycamore-resume-202102.pdf)
 
@@ -21,15 +21,26 @@ I'm currently working as a [freelance web designer and developer](https://sycamo
 
 # Repository Highlights
 
+## [SamuelSycamore.com](https://github.com/samuelsycamore/nextjs-tech-career-blog)
+
+- My tech blog and developer portfolio, which can be found at [samuelsycamore.com](https://www.samuelsycamore.com)
+- Built with Next.js, React, Tailwind
+- Currently working on fleshing out content and picking out a CMS
+
 ## [Sycamore Design](https://github.com/samuelsycamore/sycamore-design)
 
 - My professional freelancing portfolio, which lives at [sycamore.design](https://sycamore.design)
 - Built with Tailwind 
-- Currently working on adding GSAP animations and [converting to a custom Wordpress blog](https://github.com/samuelsycamore/portfolio-wordpress-rebuild)
+- Currently working on adding GSAP animations and converting to a Next.js blog
 
 ## [Joshu's Zen Koans](https://github.com/samuelsycamore/joshu-zen-koans-react)
 
 - Minimalist SPA gathering Zen Buddhist parables featuring the monk Joshu
 - Built with React & Tailwind
-- Assembled to test my knowledge of state, props, and the React dev environment
+- Assembled to test my understanding of state, props, and components
 - Currently working on completing tablet and desktop designs, and adding additional functionality
+
+## [Lyonscape](https://github.com/samuelsycamore/lyonscape)
+
+- Online portfolio for landscaping company serving Santa Cruz, California, deployed at [lyonscape.com](https://www.lyonscape.com)
+- Built with Bootstrap & jQuery
