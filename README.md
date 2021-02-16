@@ -25,11 +25,11 @@ I'm currently working as a [freelance web designer and developer](https://sycamo
 
 - My tech blog and developer portfolio, which can be found at [samuelsycamore.com](https://www.samuelsycamore.com)
 - Built with Next.js, React, Tailwind
-- Currently working on fleshing out content and picking out a CMS
+- Currently working on fleshing out content
 
 ## [Joshu's Zen Koans](https://github.com/samuelsycamore/joshu-zen-koans-react)
 
-- Minimalist SPA gathering Zen Buddhist parables featuring the monk Joshu
+- Minimalist SPA gathering Zen Buddhist parables featuring the monk Joshu - deployed [on Netlify](https://joshus-zen-koans.netlify.app)
 - Built with React & Tailwind
 - Assembled to test my understanding of state, props, and components
 - Currently working on completing tablet and desktop designs, and adding additional functionality
