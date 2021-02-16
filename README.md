@@ -27,18 +27,18 @@ I'm currently working as a [freelance web designer and developer](https://sycamo
 - Built with Next.js, React, Tailwind
 - Currently working on fleshing out content and picking out a CMS
 
-## [Sycamore Design](https://github.com/samuelsycamore/sycamore-design)
-
-- My professional freelancing portfolio, which lives at [sycamore.design](https://sycamore.design)
-- Built with Tailwind 
-- Currently working on adding GSAP animations and converting to a Next.js blog
-
 ## [Joshu's Zen Koans](https://github.com/samuelsycamore/joshu-zen-koans-react)
 
 - Minimalist SPA gathering Zen Buddhist parables featuring the monk Joshu
 - Built with React & Tailwind
 - Assembled to test my understanding of state, props, and components
 - Currently working on completing tablet and desktop designs, and adding additional functionality
+
+## [Sycamore Design](https://github.com/samuelsycamore/sycamore-design)
+
+- My professional freelancing portfolio, which lives at [sycamore.design](https://sycamore.design)
+- Built with Tailwind 
+- Currently working on adding GSAP animations and converting to a Next.js blog
 
 ## [Lyonscape](https://github.com/samuelsycamore/lyonscape)
 
