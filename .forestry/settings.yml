@@ -5,8 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: tree/main
-  label: blog
+  path: nextjs-tech-career-blog/tree/main/posts
+  label: posts
   create: all
   match: "**/*"
 upload_dir: uploads
