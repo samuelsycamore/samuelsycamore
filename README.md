@@ -23,7 +23,7 @@ I'm currently working as a [freelance web designer and developer](https://sycamo
 
 ## [Weather & Natural Event Tracker](https://github.com/samuelsycamore/nasa-weather-tracker)
 
-- Fetches data from NASA's Earth Observatory Natural Event Tracker (EONET) API and dynamically displays it on top of Google Maps
+- Fetches data from NASA's Earth Observatory Natural Event Tracker (EONET) API and dynamically displays it on top of Google Maps - deployed [on Netlify](https://sycamore-weather-tracker.netlify.app)
 - Built with React
 
 ## [SamuelSycamore.com](https://github.com/samuelsycamore/nextjs-tech-career-blog)
