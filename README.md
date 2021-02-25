@@ -2,7 +2,7 @@
 
 # A Solar-Powered Profile
 
-### Cheers! I'm Sam Sycamore, a full-stack web developer who's fallen in love with Tailwind and React.
+### Cheers! I'm Sam Sycamore, a full-stack web developer who's fallen in love with Tailwind and Next.js!
 
 I live off-grid in the Santa Cruz Mountains of California - almost all the code you find here was made possible by solar power.
 
@@ -21,6 +21,11 @@ I'm currently working as a [freelance web designer and developer](https://sycamo
 
 # Repository Highlights
 
+## [Weather & Natural Event Tracker](https://github.com/samuelsycamore/nasa-weather-tracker)
+
+- Fetches data from NASA's Earth Observatory Natural Event Tracker (EONET) API and dynamically displays it on top of Google Maps
+- Built with React
+
 ## [SamuelSycamore.com](https://github.com/samuelsycamore/nextjs-tech-career-blog)
 
 - My tech blog and developer portfolio, which can be found at [samuelsycamore.com](https://www.samuelsycamore.com)
@@ -32,15 +37,9 @@ I'm currently working as a [freelance web designer and developer](https://sycamo
 - Minimalist SPA gathering Zen Buddhist parables featuring the monk Joshu - deployed [on Netlify](https://joshus-zen-koans.netlify.app)
 - Built with React & Tailwind
 - Assembled to test my understanding of state, props, and components
-- Currently working on completing tablet and desktop designs, and adding additional functionality
 
 ## [Sycamore Design](https://github.com/samuelsycamore/sycamore-design)
 
 - My professional freelancing portfolio, which lives at [sycamore.design](https://sycamore.design)
 - Built with Tailwind 
 - Currently working on adding GSAP animations and converting to a Next.js blog
-
-## [Lyonscape](https://github.com/samuelsycamore/lyonscape)
-
-- Online portfolio for landscaping company serving Santa Cruz, California, deployed at [lyonscape.com](https://www.lyonscape.com)
-- Built with Bootstrap & jQuery
