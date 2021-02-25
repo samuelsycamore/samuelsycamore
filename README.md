@@ -28,18 +28,21 @@ I'm currently working as a [freelance web designer and developer](https://sycamo
 
 ## [SamuelSycamore.com](https://github.com/samuelsycamore/nextjs-tech-career-blog)
 
-- My tech blog and developer portfolio, which can be found at [samuelsycamore.com](https://www.samuelsycamore.com)
+- My tech blog and developer portfolio
+- Located at [samuelsycamore.com](https://www.samuelsycamore.com)
 - Built with Next.js, React, Tailwind
 - Currently working on fleshing out content
 
 ## [Joshu's Zen Koans](https://github.com/samuelsycamore/joshu-zen-koans-react)
 
-- Minimalist SPA gathering Zen Buddhist parables featuring the monk Joshu - deployed [on Netlify](https://joshus-zen-koans.netlify.app)
+- Minimalist SPA gathering Zen Buddhist parables featuring the monk Joshu 
+- Deployed [on Netlify](https://joshus-zen-koans.netlify.app)
 - Built with React & Tailwind
 - Assembled to test my understanding of state, props, and components
 
 ## [Sycamore Design](https://github.com/samuelsycamore/sycamore-design)
 
-- My professional freelancing portfolio, which lives at [sycamore.design](https://sycamore.design)
-- Built with Tailwind 
+- My professional freelancing portfolio
+- Located at [sycamore.design](https://sycamore.design)
+- Styled with Tailwind 
 - Currently working on adding GSAP animations and converting to a Next.js blog
