@@ -8,7 +8,7 @@ I live off-grid in the Santa Cruz Mountains of California - almost all the code 
 
 I work as a [freelance web developer](https://sycamore.design) and write tech guides & tutorials.
 
-  ⚡ Excited about: Next.js, Ghost CMS, Tailwind (always), Jamstack
+  ⚡ Excited about: Eleventy, Sass, Next.js, Ghost CMS, Tailwind, GraphQL
   
  🔧 Dig my tech blog at [samuelsycamore.com](https://samuelsycamore.com)
  
@@ -33,9 +33,3 @@ I work as a [freelance web developer](https://sycamore.design) and write tech gu
 - Fetches data from NASA's Earth Observatory Natural Event Tracker (EONET) API and dynamically displays it on top of Google Maps 
 - deployed [on Netlify](https://sycamore-weather-tracker.netlify.app)
 - Built with React
-
-## [Joshu's Zen Koans](https://github.com/samuelsycamore/joshu-zen-koans-react)
-
-- Minimalist SPA gathering Zen Buddhist parables featuring the monk Joshu 
-- Deployed [on Netlify](https://joshus-zen-koans.netlify.app)
-- Built with React & Tailwind
