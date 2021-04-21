@@ -23,7 +23,7 @@ I work as a [freelance web developer](https://sycamore.design) and write tech gu
 
 ## [SamuelSycamore.com](https://github.com/samuelsycamore/nextjs-docs)
 
-- My techical blog and developer portfolio
+- My techical blog & developer portfolio
 - Located at [samuelsycamore.com](https://www.samuelsycamore.com)
 - Built with Nextra (Next.js), Markdown/MDX, JSON
 - Always adding new content and tutorials
