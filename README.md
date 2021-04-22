@@ -8,7 +8,7 @@ I live off-grid in the Santa Cruz Mountains of California - almost all the code 
 
 I work as a [freelance web developer](https://sycamore.design) and write tech guides & tutorials.
 
-  ⚡ Excited about: Eleventy, Sass, Next.js, Ghost CMS, Tailwind, GraphQL
+  ⚡ Excited about: Eleventy, Sass, Next.js, Tailwind, GraphQL
   
  🔧 Dig my tech blog at [samuelsycamore.com](https://samuelsycamore.com)
  
