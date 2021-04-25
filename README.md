@@ -16,9 +16,9 @@ I work as a [freelance web developer and writer](https://sycamore.design).
  
   ✍ You can [view my CV here](https://sycamore-cv.vercel.app)
 
- 🌱 Ask me about how to identify common edible wild plants
+ 🌱 Ask me about how to identify common edible wild plants!
 
-
+Thanks 
 # Repository Highlights
 
 ## [SamuelSycamore.com](https://github.com/samuelsycamore/nextjs-docs)
