@@ -14,7 +14,7 @@ I work as a [freelance web developer and writer](https://sycamore.design).
  
  ✨ Find me on [DEV.to](https://dev.to/tanoaksam), [Hashnode](https://tanoaksam.hashnode.dev) [LinkedIn](https://linkedin.com/in/samuelsycamore), [Twitter](https://twitter.com/tanoaksam)
  
-  ✍ You can [view my CV here](https://sycamore-cv.vercel.app)
+  ✍ You can [view my CV here](https://sycamore-cv.vercel.app).
 
  🌱 Ask me about how to identify common edible wild plants!
 
