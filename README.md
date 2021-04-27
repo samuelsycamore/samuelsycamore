@@ -8,11 +8,11 @@ I live off-grid in the Santa Cruz Mountains of California - almost all the code 
 
 I work as a [freelance web developer and writer](https://sycamore.design).
 
-  ⚡ Excited about: Eleventy, Sass, Next.js, Tailwind, GraphQL
+  ⚡ Excited about: Eleventy, Tailwind, Alpine.js, Sass, Next.js, GraphQL.
   
- 🔧 Dig my tech blog at [samuelsycamore.com](https://samuelsycamore.com)
+ 🔧 Dig my tech blog at [samuelsycamore.com](https://samuelsycamore.com).
  
- ✨ Find me on [DEV.to](https://dev.to/tanoaksam), [Hashnode](https://tanoaksam.hashnode.dev) [LinkedIn](https://linkedin.com/in/samuelsycamore), [Twitter](https://twitter.com/tanoaksam)
+ ✨ Find me on [DEV.to](https://dev.to/tanoaksam), [Hashnode](https://tanoaksam.hashnode.dev) [LinkedIn](https://linkedin.com/in/samuelsycamore), [Twitter](https://twitter.com/tanoaksam).
  
   ✍ You can [view my CV here](https://sycamore-cv.vercel.app).
 
