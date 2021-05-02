@@ -2,7 +2,7 @@
 
 # A Solar-Powered Profile
 
-### Cheers! I'm Sam Sycamore, a software engineer and technical writer.
+### Cheers! I'm Sam Sycamore, a web developer and technical writer.
 
 I live off-grid in the Santa Cruz Mountains of California - almost all the code you find here was made possible by solar power.
 
