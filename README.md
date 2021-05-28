@@ -6,7 +6,7 @@
 
 I live off-grid in the Santa Cruz Mountains of California - almost all the code you find here was made possible by solar power.
 
-  ⚡ Excited about: Eleventy, Tailwind, Alpine.js, Sass, Next.js, GraphQL.
+  ⚡ Excited about: Eleventy, Alpine.js, SCSS, Next.js, GraphQL.
   
  🔧 Learn more about my freelancing services at [sycamore.design](https://sycamore.design).
  
