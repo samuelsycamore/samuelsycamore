@@ -6,4 +6,4 @@ I currently work as a Developer Advocate at [MUI](https://mui.com). Previously, 
 
 I'm always happy to consider new clients for writing work.
 
-Check out [sycamore.garden](https://sycamore.garden) to learn more about my projects.
+Check out [sycamore.garden](https://sycamore.garden) to learn more.
