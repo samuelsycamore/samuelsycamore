@@ -4,6 +4,4 @@ I help tech startups and digital agencies clearly communicate the value of their
 
 I currently work as a Developer Advocate at [MUI](https://mui.com). Previously I served as Marketing Manager at [Hashnode](https://hashnode.com). My specialty as a software engineer is web development with JavaScript, TypeScript, and React.
 
-I'm always happy to consider new clients for writing work.
-
 Check out [sycamore.garden](https://sycamore.garden) to learn more.
