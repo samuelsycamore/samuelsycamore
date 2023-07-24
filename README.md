@@ -1,4 +1,4 @@
-**I'm Sam Sycamore, a writer and editor with over 10 years of professional experience across multiple industries.**
+**I'm Sam Sycamore, a writer, editor, and web developer with over 10 years of professional experience across multiple industries.**
 
 I help dev tool companies and digital agencies clearly communicate the value of their products and services to their target users. I especially enjoy writing educational content for tech products, because I believe that strong docs are the best marketing materials you can present to a tech-savvy audience.
 
